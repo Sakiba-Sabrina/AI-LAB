@@ -1,1 +1,1 @@
-Simple Gaussian Naive Bayes implimentation
+### Simple Gaussian Naive Bayes implimentation
